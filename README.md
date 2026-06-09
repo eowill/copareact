@@ -1,6 +1,6 @@
 # React + Vite — Sistema de Chaveamento da Copa do Mundo
 
-![Copa React Challenge](./public/banner.png)
+![Copa React Challenge](banner.png)
 
 ## Sobre o Projeto
 
