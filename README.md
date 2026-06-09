@@ -133,7 +133,7 @@ npm run dev
 src/data/teams.js
 ```
 
-Crie o arquivo:
+Crie o arquivo [adicione todos os times da copa de 2026]:
 
 ```javascript
 export const teams = [
